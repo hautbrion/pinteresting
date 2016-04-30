@@ -1,4 +1,4 @@
-# Pinteresting!
+## Pinteresting!
 
 by [haubriton](https://github.com/hautbrion)/[onemonthrails](https://github.com/onemonthrails)
 
