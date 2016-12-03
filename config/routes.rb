@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   root "pages#home"
   get "about" => "pages#about" #Creates about_path (Day 8 - Lesson 1)
+  get "why" => "pages#why" #Created why_path (Day 11: Bootrap + additional page HW)
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
